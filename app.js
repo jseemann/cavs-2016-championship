@@ -35,14 +35,23 @@
   }
 
   function videoTile(item) {
-    var b = el("button", "tile");
-    b.type = "button";
+    var b;
+    if (item.u) {
+      // Google Photos can't be embedded, so these open in a new tab
+      b = el("a", "tile");
+      b.href = item.u;
+      b.target = "_blank";
+      b.rel = "noopener";
+    } else {
+      b = el("button", "tile");
+      b.type = "button";
+    }
     var f = frame(item);
     f.appendChild(el("span", "play"));
     if (item.d) f.appendChild(el("span", "dur", item.d));
     b.appendChild(f);
     b.appendChild(el("span", "cap", item.t));
-    b.addEventListener("click", function () { open(item, ""); });
+    if (!item.u) b.addEventListener("click", function () { open(item, ""); });
     return b;
   }
 

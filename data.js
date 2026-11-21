@@ -1,5 +1,80 @@
 window.ARCHIVE = [
  {
+  "key": "s00",
+  "title": "The Finals, all seven games",
+  "date": "June 2-19, 2016",
+  "blurb": "Full broadcasts of the 2016 Finals, from the Game 1 loss to the comeback from 3-1 down. These play in Google Photos.",
+  "groups": [
+   {
+    "label": "",
+    "items": [
+     {
+      "id": "AF1QipNasEQl7bI4i9Mda3-PSpExWkHmhFJsXbK0YtUg",
+      "t": "Game 1",
+      "k": "video",
+      "th": 1,
+      "d": "1:52:50",
+      "u": "https://photos.google.com/album/AF1QipP5JVgsz1aaMBdzTe3OIO9QD5HBBK0qevZmuLOk/photo/AF1QipNasEQl7bI4i9Mda3-PSpExWkHmhFJsXbK0YtUg"
+     },
+     {
+      "id": "AF1QipPDdD25AbY7_22eGV-u7_W6xU3aDfRFaZZBAyUV",
+      "t": "Game 2",
+      "k": "video",
+      "th": 1,
+      "d": "1:56:46",
+      "u": "https://photos.google.com/album/AF1QipP5JVgsz1aaMBdzTe3OIO9QD5HBBK0qevZmuLOk/photo/AF1QipPDdD25AbY7_22eGV-u7_W6xU3aDfRFaZZBAyUV"
+     },
+     {
+      "id": "AF1QipPGVcjoGU4ybzsGH234DIHN5BUip33sxn-mobeL",
+      "t": "Game 3",
+      "k": "video",
+      "th": 1,
+      "d": "2:05:51",
+      "u": "https://photos.google.com/album/AF1QipP5JVgsz1aaMBdzTe3OIO9QD5HBBK0qevZmuLOk/photo/AF1QipPGVcjoGU4ybzsGH234DIHN5BUip33sxn-mobeL"
+     },
+     {
+      "id": "AF1QipOEXIck7baGUIls9LJmSUlbs0WRBKYAlcy_mQ09",
+      "t": "Game 4",
+      "k": "video",
+      "th": 1,
+      "d": "2:13:02",
+      "u": "https://photos.google.com/album/AF1QipP5JVgsz1aaMBdzTe3OIO9QD5HBBK0qevZmuLOk/photo/AF1QipOEXIck7baGUIls9LJmSUlbs0WRBKYAlcy_mQ09"
+     },
+     {
+      "id": "AF1QipN_7CHsHb7_Iwx0Mu2XwKD9DBHlDX-smJ0EDmke",
+      "t": "Game 5",
+      "k": "video",
+      "th": 1,
+      "d": "2:03:23",
+      "u": "https://photos.google.com/album/AF1QipP5JVgsz1aaMBdzTe3OIO9QD5HBBK0qevZmuLOk/photo/AF1QipN_7CHsHb7_Iwx0Mu2XwKD9DBHlDX-smJ0EDmke"
+     },
+     {
+      "id": "AF1QipNOdK37YIfVe12rehySvXCra4MIn-Ogjh2Ow5CK",
+      "t": "Game 6",
+      "k": "video",
+      "d": "1:55:35",
+      "u": "https://photos.google.com/album/AF1QipP5JVgsz1aaMBdzTe3OIO9QD5HBBK0qevZmuLOk/photo/AF1QipNOdK37YIfVe12rehySvXCra4MIn-Ogjh2Ow5CK"
+     },
+     {
+      "id": "AF1QipODvq9oJf5TMU8VdOtUab6m-kP02yh6C-RXNch6",
+      "t": "Game 7",
+      "k": "video",
+      "th": 1,
+      "d": "2:06:49",
+      "u": "https://photos.google.com/album/AF1QipP5JVgsz1aaMBdzTe3OIO9QD5HBBK0qevZmuLOk/photo/AF1QipODvq9oJf5TMU8VdOtUab6m-kP02yh6C-RXNch6"
+     },
+     {
+      "id": "AF1QipNvegMSWyPLP_qaiMomx1kc2e_l7p_o8bx9TDSN",
+      "t": "2016 World Champions",
+      "k": "video",
+      "d": "2:58",
+      "u": "https://photos.google.com/album/AF1QipP5JVgsz1aaMBdzTe3OIO9QD5HBBK0qevZmuLOk/photo/AF1QipNvegMSWyPLP_qaiMomx1kc2e_l7p_o8bx9TDSN"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "key": "s01",
   "title": "Game 7 and the call",
   "date": "June 19, 2016",
