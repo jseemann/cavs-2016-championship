@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Cleveland 2016 championship archive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;800&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="score" aria-label="Final score: Cleveland 93, Golden State 89">
+    <div class="team"><span class="abbr">CLE</span><span class="pts">93</span></div>
+    <div class="team away"><span class="abbr">GSW</span><span class="pts">89</span></div>
+    <p class="final">Final, Game 7, June 19, 2016</p>
+  </div>
+  <div class="hero-copy">
+    <h1>Cleveland, 2016</h1>
+    <p>Game 7, the celebration, the homecoming and the parade, kept in one place. Videos, photos and radio play straight from Google Drive.</p>
+  </div>
+</header>
+
+<nav class="rail" aria-label="Sections">
+  <ol id="toc"></ol>
+</nav>
+
+<main id="archive"></main>
+
+<footer class="foot">
+  <p>Everything here lives in a private Google Drive folder. If a video shows a "You need access" screen, request access there and Jason will see it.</p>
+</footer>
+
+<dialog id="viewer" aria-labelledby="viewer-title">
+  <div class="viewer-bar">
+    <h2 id="viewer-title"></h2>
+    <a id="viewer-open" target="_blank" rel="noopener">Open in Drive</a>
+    <button type="button" id="viewer-close" aria-label="Close">Close</button>
+  </div>
+  <div class="viewer-frame"><iframe id="viewer-iframe" title="Media player" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+</dialog>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
