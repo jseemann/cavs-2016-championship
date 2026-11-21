@@ -361,11 +361,6 @@ window.ARCHIVE = [
       "d": "2:36"
      },
      {
-      "id": "14BHoMbL3CnI09Mncz5CF9wgNESTFpAke",
-      "t": "WKYC - Fans welcome the team home",
-      "k": "video"
-     },
-     {
       "id": "1pIHOe2ES-oLunPYFauOqiO_Bm3CZL6-F",
       "t": "Cleveland 19 - LeBron delivers the trophy",
       "k": "video",
@@ -1065,26 +1060,6 @@ window.ARCHIVE = [
       "t": "Phone photo - 2016-06-21",
       "k": "photo",
       "th": 1
-     }
-    ]
-   }
-  ]
- },
- {
-  "key": "s99",
-  "title": "Unsorted",
-  "date": "",
-  "blurb": "Files that still need a home.",
-  "groups": [
-   {
-    "label": "",
-    "items": [
-     {
-      "id": "1IcJKe9EerT2ktZKltbkX_iwoQEs2glXt",
-      "t": "Possible duplicate - Cavs radio call of the final minutes",
-      "k": "video",
-      "th": 1,
-      "d": "1:03"
      }
     ]
    }
