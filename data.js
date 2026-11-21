@@ -1,5 +1,26 @@
 window.ARCHIVE = [
  {
+  "key": "shype",
+  "title": "The King Returns",
+  "date": "",
+  "blurb": "The hype video. Start here.",
+  "groups": [
+   {
+    "label": "",
+    "items": [
+     {
+      "id": "AF1QipNvegMSWyPLP_qaiMomx1kc2e_l7p_o8bx9TDSN",
+      "t": "The King Returns",
+      "k": "video",
+      "th": 1,
+      "d": "2:58",
+      "u": "https://photos.google.com/album/AF1QipP5JVgsz1aaMBdzTe3OIO9QD5HBBK0qevZmuLOk/photo/AF1QipNvegMSWyPLP_qaiMomx1kc2e_l7p_o8bx9TDSN"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "key": "s00",
   "title": "The Finals, all seven games",
   "date": "June 2-19, 2016",
@@ -52,6 +73,7 @@ window.ARCHIVE = [
       "id": "AF1QipNOdK37YIfVe12rehySvXCra4MIn-Ogjh2Ow5CK",
       "t": "Game 6",
       "k": "video",
+      "th": 1,
       "d": "1:55:35",
       "u": "https://photos.google.com/album/AF1QipP5JVgsz1aaMBdzTe3OIO9QD5HBBK0qevZmuLOk/photo/AF1QipNOdK37YIfVe12rehySvXCra4MIn-Ogjh2Ow5CK"
      },
@@ -62,13 +84,6 @@ window.ARCHIVE = [
       "th": 1,
       "d": "2:06:49",
       "u": "https://photos.google.com/album/AF1QipP5JVgsz1aaMBdzTe3OIO9QD5HBBK0qevZmuLOk/photo/AF1QipODvq9oJf5TMU8VdOtUab6m-kP02yh6C-RXNch6"
-     },
-     {
-      "id": "AF1QipNvegMSWyPLP_qaiMomx1kc2e_l7p_o8bx9TDSN",
-      "t": "2016 World Champions",
-      "k": "video",
-      "d": "2:58",
-      "u": "https://photos.google.com/album/AF1QipP5JVgsz1aaMBdzTe3OIO9QD5HBBK0qevZmuLOk/photo/AF1QipNvegMSWyPLP_qaiMomx1kc2e_l7p_o8bx9TDSN"
      }
     ]
    }
